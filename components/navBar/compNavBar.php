@@ -5,7 +5,7 @@
      
       <nav class='navbar navbar-expand-lg navbar-light bg-light sticky-top shadow-sm' style='min-height:80px;'>
           <div class='container-fluid'>
-            <a class='navbar-brand text-danger' href='index.php'>
+            <a class='navbar-brand text-danger' href='../index.php'>
                <span class='mt-5'>
                 <i class='fs-1 flaticon flaticon-judo'></i>
                </span>
