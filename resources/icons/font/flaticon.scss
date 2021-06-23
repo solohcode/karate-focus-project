@@ -1,0 +1,469 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?581a2bf3e4e1240dc68cb64fb3299d4b") format("truetype"),
+url("./flaticon.woff?581a2bf3e4e1240dc68cb64fb3299d4b") format("woff"),
+url("./flaticon.woff2?581a2bf3e4e1240dc68cb64fb3299d4b") format("woff2"),
+url("./flaticon.eot?581a2bf3e4e1240dc68cb64fb3299d4b#iefix") format("embedded-opentype"),
+url("./flaticon.svg?581a2bf3e4e1240dc68cb64fb3299d4b#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "olympic-judo-couple-silhouette": "\f101",
+    "martial-arts": "\f102",
+    "karate-master": "\f103",
+    "nunchaku": "\f104",
+    "martial-art": "\f105",
+    "martial-art-1": "\f106",
+    "kimono": "\f107",
+    "breaking": "\f108",
+    "fight": "\f109",
+    "kimono-1": "\f10a",
+    "kimono-with-belt": "\f10b",
+    "karate": "\f10c",
+    "karate-1": "\f10d",
+    "judo": "\f10e",
+    "karate-2": "\f10f",
+    "nunchaku-1": "\f110",
+    "judo-1": "\f111",
+    "nunchaku-2": "\f112",
+    "fist": "\f113",
+    "karate-3": "\f114",
+    "belt": "\f115",
+    "kimono-2": "\f116",
+    "belt-1": "\f117",
+    "two-judo-fighters": "\f118",
+    "karate-high-kick": "\f119",
+    "karate-4": "\f11a",
+    "karate-5": "\f11b",
+    "karate-6": "\f11c",
+    "paralympic-judo-couple-silhouette": "\f11d",
+    "paralympic-judo": "\f11e",
+    "martial-arts-1": "\f11f",
+    "martial-arts-2": "\f120",
+    "kick": "\f121",
+    "kick-1": "\f122",
+    "kick-2": "\f123",
+    "kick-3": "\f124",
+    "sesei": "\f125",
+    "kimono-3": "\f126",
+    "kimono-4": "\f127",
+    "kimono-5": "\f128",
+    "kimono-6": "\f129",
+    "black-belt": "\f12a",
+    "kimono-7": "\f12b",
+    "black-belt-1": "\f12c",
+    "nunchaku-3": "\f12d",
+    "karate-fighter": "\f12e",
+    "kimono-8": "\f12f",
+    "nunchaku-4": "\f130",
+    "nunchaku-5": "\f131",
+    "karateka": "\f132",
+    "instagram": "\f133",
+    "youtube": "\f134",
+    "youtube-1": "\f135",
+    "favorite": "\f136",
+    "instagram-1": "\f137",
+    "facebook": "\f138",
+    "instagram-2": "\f139",
+    "twitter": "\f13a",
+    "telegram": "\f13b",
+    "groups": "\f13c",
+    "linkedin": "\f13d",
+    "twitter-1": "\f13e",
+    "whatsapp": "\f13f",
+    "linkedin-1": "\f140",
+    "youtube-2": "\f141",
+    "facebook-1": "\f142",
+    "share": "\f143",
+    "facebook-2": "\f144",
+    "whatsapp-1": "\f145",
+    "whatsapp-2": "\f146",
+    "friends": "\f147",
+    "pinterest": "\f148",
+    "tik-tok": "\f149",
+    "instagram-3": "\f14a",
+    "facebook-3": "\f14b",
+    "google-plus": "\f14c",
+    "notification": "\f14d",
+    "website": "\f14e",
+    "tiktok": "\f14f",
+    "twitter-2": "\f150",
+    "social-media": "\f151",
+    "review": "\f152",
+    "conversation": "\f153",
+    "comment": "\f154",
+    "comment-1": "\f155",
+    "user": "\f156",
+    "user-1": "\f157",
+    "user-2": "\f158",
+    "avatar": "\f159",
+    "user-3": "\f15a",
+    "team": "\f15b",
+    "employees": "\f15c",
+    "user-4": "\f15d",
+    "add-user": "\f15e",
+    "followers": "\f15f",
+    "user-picture": "\f160",
+    "woman": "\f161",
+    "man": "\f162",
+    "woman-1": "\f163",
+    "woman-avatar": "\f164",
+    "assistant": "\f165",
+    "user-5": "\f166",
+    "login": "\f167",
+    "log-in": "\f168",
+    "login-1": "\f169",
+    "block": "\f16a",
+    "register": "\f16b",
+    "id": "\f16c",
+    "website-1": "\f16d",
+    "user-6": "\f16e",
+    "add-group": "\f16f",
+);
+
+.flaticon-olympic-judo-couple-silhouette:before {
+    content: map-get($flaticon-map, "olympic-judo-couple-silhouette");
+}
+.flaticon-martial-arts:before {
+    content: map-get($flaticon-map, "martial-arts");
+}
+.flaticon-karate-master:before {
+    content: map-get($flaticon-map, "karate-master");
+}
+.flaticon-nunchaku:before {
+    content: map-get($flaticon-map, "nunchaku");
+}
+.flaticon-martial-art:before {
+    content: map-get($flaticon-map, "martial-art");
+}
+.flaticon-martial-art-1:before {
+    content: map-get($flaticon-map, "martial-art-1");
+}
+.flaticon-kimono:before {
+    content: map-get($flaticon-map, "kimono");
+}
+.flaticon-breaking:before {
+    content: map-get($flaticon-map, "breaking");
+}
+.flaticon-fight:before {
+    content: map-get($flaticon-map, "fight");
+}
+.flaticon-kimono-1:before {
+    content: map-get($flaticon-map, "kimono-1");
+}
+.flaticon-kimono-with-belt:before {
+    content: map-get($flaticon-map, "kimono-with-belt");
+}
+.flaticon-karate:before {
+    content: map-get($flaticon-map, "karate");
+}
+.flaticon-karate-1:before {
+    content: map-get($flaticon-map, "karate-1");
+}
+.flaticon-judo:before {
+    content: map-get($flaticon-map, "judo");
+}
+.flaticon-karate-2:before {
+    content: map-get($flaticon-map, "karate-2");
+}
+.flaticon-nunchaku-1:before {
+    content: map-get($flaticon-map, "nunchaku-1");
+}
+.flaticon-judo-1:before {
+    content: map-get($flaticon-map, "judo-1");
+}
+.flaticon-nunchaku-2:before {
+    content: map-get($flaticon-map, "nunchaku-2");
+}
+.flaticon-fist:before {
+    content: map-get($flaticon-map, "fist");
+}
+.flaticon-karate-3:before {
+    content: map-get($flaticon-map, "karate-3");
+}
+.flaticon-belt:before {
+    content: map-get($flaticon-map, "belt");
+}
+.flaticon-kimono-2:before {
+    content: map-get($flaticon-map, "kimono-2");
+}
+.flaticon-belt-1:before {
+    content: map-get($flaticon-map, "belt-1");
+}
+.flaticon-two-judo-fighters:before {
+    content: map-get($flaticon-map, "two-judo-fighters");
+}
+.flaticon-karate-high-kick:before {
+    content: map-get($flaticon-map, "karate-high-kick");
+}
+.flaticon-karate-4:before {
+    content: map-get($flaticon-map, "karate-4");
+}
+.flaticon-karate-5:before {
+    content: map-get($flaticon-map, "karate-5");
+}
+.flaticon-karate-6:before {
+    content: map-get($flaticon-map, "karate-6");
+}
+.flaticon-paralympic-judo-couple-silhouette:before {
+    content: map-get($flaticon-map, "paralympic-judo-couple-silhouette");
+}
+.flaticon-paralympic-judo:before {
+    content: map-get($flaticon-map, "paralympic-judo");
+}
+.flaticon-martial-arts-1:before {
+    content: map-get($flaticon-map, "martial-arts-1");
+}
+.flaticon-martial-arts-2:before {
+    content: map-get($flaticon-map, "martial-arts-2");
+}
+.flaticon-kick:before {
+    content: map-get($flaticon-map, "kick");
+}
+.flaticon-kick-1:before {
+    content: map-get($flaticon-map, "kick-1");
+}
+.flaticon-kick-2:before {
+    content: map-get($flaticon-map, "kick-2");
+}
+.flaticon-kick-3:before {
+    content: map-get($flaticon-map, "kick-3");
+}
+.flaticon-sesei:before {
+    content: map-get($flaticon-map, "sesei");
+}
+.flaticon-kimono-3:before {
+    content: map-get($flaticon-map, "kimono-3");
+}
+.flaticon-kimono-4:before {
+    content: map-get($flaticon-map, "kimono-4");
+}
+.flaticon-kimono-5:before {
+    content: map-get($flaticon-map, "kimono-5");
+}
+.flaticon-kimono-6:before {
+    content: map-get($flaticon-map, "kimono-6");
+}
+.flaticon-black-belt:before {
+    content: map-get($flaticon-map, "black-belt");
+}
+.flaticon-kimono-7:before {
+    content: map-get($flaticon-map, "kimono-7");
+}
+.flaticon-black-belt-1:before {
+    content: map-get($flaticon-map, "black-belt-1");
+}
+.flaticon-nunchaku-3:before {
+    content: map-get($flaticon-map, "nunchaku-3");
+}
+.flaticon-karate-fighter:before {
+    content: map-get($flaticon-map, "karate-fighter");
+}
+.flaticon-kimono-8:before {
+    content: map-get($flaticon-map, "kimono-8");
+}
+.flaticon-nunchaku-4:before {
+    content: map-get($flaticon-map, "nunchaku-4");
+}
+.flaticon-nunchaku-5:before {
+    content: map-get($flaticon-map, "nunchaku-5");
+}
+.flaticon-karateka:before {
+    content: map-get($flaticon-map, "karateka");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon-map, "instagram");
+}
+.flaticon-youtube:before {
+    content: map-get($flaticon-map, "youtube");
+}
+.flaticon-youtube-1:before {
+    content: map-get($flaticon-map, "youtube-1");
+}
+.flaticon-favorite:before {
+    content: map-get($flaticon-map, "favorite");
+}
+.flaticon-instagram-1:before {
+    content: map-get($flaticon-map, "instagram-1");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-instagram-2:before {
+    content: map-get($flaticon-map, "instagram-2");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon-map, "twitter");
+}
+.flaticon-telegram:before {
+    content: map-get($flaticon-map, "telegram");
+}
+.flaticon-groups:before {
+    content: map-get($flaticon-map, "groups");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon-map, "linkedin");
+}
+.flaticon-twitter-1:before {
+    content: map-get($flaticon-map, "twitter-1");
+}
+.flaticon-whatsapp:before {
+    content: map-get($flaticon-map, "whatsapp");
+}
+.flaticon-linkedin-1:before {
+    content: map-get($flaticon-map, "linkedin-1");
+}
+.flaticon-youtube-2:before {
+    content: map-get($flaticon-map, "youtube-2");
+}
+.flaticon-facebook-1:before {
+    content: map-get($flaticon-map, "facebook-1");
+}
+.flaticon-share:before {
+    content: map-get($flaticon-map, "share");
+}
+.flaticon-facebook-2:before {
+    content: map-get($flaticon-map, "facebook-2");
+}
+.flaticon-whatsapp-1:before {
+    content: map-get($flaticon-map, "whatsapp-1");
+}
+.flaticon-whatsapp-2:before {
+    content: map-get($flaticon-map, "whatsapp-2");
+}
+.flaticon-friends:before {
+    content: map-get($flaticon-map, "friends");
+}
+.flaticon-pinterest:before {
+    content: map-get($flaticon-map, "pinterest");
+}
+.flaticon-tik-tok:before {
+    content: map-get($flaticon-map, "tik-tok");
+}
+.flaticon-instagram-3:before {
+    content: map-get($flaticon-map, "instagram-3");
+}
+.flaticon-facebook-3:before {
+    content: map-get($flaticon-map, "facebook-3");
+}
+.flaticon-google-plus:before {
+    content: map-get($flaticon-map, "google-plus");
+}
+.flaticon-notification:before {
+    content: map-get($flaticon-map, "notification");
+}
+.flaticon-website:before {
+    content: map-get($flaticon-map, "website");
+}
+.flaticon-tiktok:before {
+    content: map-get($flaticon-map, "tiktok");
+}
+.flaticon-twitter-2:before {
+    content: map-get($flaticon-map, "twitter-2");
+}
+.flaticon-social-media:before {
+    content: map-get($flaticon-map, "social-media");
+}
+.flaticon-review:before {
+    content: map-get($flaticon-map, "review");
+}
+.flaticon-conversation:before {
+    content: map-get($flaticon-map, "conversation");
+}
+.flaticon-comment:before {
+    content: map-get($flaticon-map, "comment");
+}
+.flaticon-comment-1:before {
+    content: map-get($flaticon-map, "comment-1");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-user-1:before {
+    content: map-get($flaticon-map, "user-1");
+}
+.flaticon-user-2:before {
+    content: map-get($flaticon-map, "user-2");
+}
+.flaticon-avatar:before {
+    content: map-get($flaticon-map, "avatar");
+}
+.flaticon-user-3:before {
+    content: map-get($flaticon-map, "user-3");
+}
+.flaticon-team:before {
+    content: map-get($flaticon-map, "team");
+}
+.flaticon-employees:before {
+    content: map-get($flaticon-map, "employees");
+}
+.flaticon-user-4:before {
+    content: map-get($flaticon-map, "user-4");
+}
+.flaticon-add-user:before {
+    content: map-get($flaticon-map, "add-user");
+}
+.flaticon-followers:before {
+    content: map-get($flaticon-map, "followers");
+}
+.flaticon-user-picture:before {
+    content: map-get($flaticon-map, "user-picture");
+}
+.flaticon-woman:before {
+    content: map-get($flaticon-map, "woman");
+}
+.flaticon-man:before {
+    content: map-get($flaticon-map, "man");
+}
+.flaticon-woman-1:before {
+    content: map-get($flaticon-map, "woman-1");
+}
+.flaticon-woman-avatar:before {
+    content: map-get($flaticon-map, "woman-avatar");
+}
+.flaticon-assistant:before {
+    content: map-get($flaticon-map, "assistant");
+}
+.flaticon-user-5:before {
+    content: map-get($flaticon-map, "user-5");
+}
+.flaticon-login:before {
+    content: map-get($flaticon-map, "login");
+}
+.flaticon-log-in:before {
+    content: map-get($flaticon-map, "log-in");
+}
+.flaticon-login-1:before {
+    content: map-get($flaticon-map, "login-1");
+}
+.flaticon-block:before {
+    content: map-get($flaticon-map, "block");
+}
+.flaticon-register:before {
+    content: map-get($flaticon-map, "register");
+}
+.flaticon-id:before {
+    content: map-get($flaticon-map, "id");
+}
+.flaticon-website-1:before {
+    content: map-get($flaticon-map, "website-1");
+}
+.flaticon-user-6:before {
+    content: map-get($flaticon-map, "user-6");
+}
+.flaticon-add-group:before {
+    content: map-get($flaticon-map, "add-group");
+}
