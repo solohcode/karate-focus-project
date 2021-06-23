@@ -3,6 +3,7 @@
 <?php
 
 // header navbar include 
+// include('components/head/head.php');
 include('components/navBar/navBar.php');
 ?> 
 
