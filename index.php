@@ -27,8 +27,8 @@ include('components/navBar/navBar.php');
                 <p class=" fs-5 fst-italic">fun, fitness for a purpose. children, adult and family classes available.</p>
 
                 <div class="mt-5 w-100 animate-bottom d-none d-md-block">
-                  <a href="" class="mx-1 mx-md-3 btn btn-lg btn-outline-light ">Join the train</a>
-                  <a href="" class="mx-1 mx-md-3 btn btn-lg btn-outline-danger">Contact</a>
+                  <a href="auth/login.php" class="mx-1 mx-md-3 btn btn-lg btn-outline-light ">Join the train</a>
+                  <a href="#contact" class="mx-1 mx-md-3 btn btn-lg btn-outline-danger">Contact</a>
                 </div>
               </div>
           </div>
@@ -98,7 +98,7 @@ include('components/navBar/navBar.php');
             </div>
             <div class="col-md-4 my-2">
               <div class="flex flex-event">
-                <a href="about.php" class=" flex-btn text-center">
+                <a href="pages/events.php" class=" flex-btn text-center">
                   <button>
                     Events
                   </button>
@@ -107,16 +107,16 @@ include('components/navBar/navBar.php');
             </div>
             <div class="col-md-4 my-2">
               <div class="flex flex-news">
-                <a href="about.php" class=" flex-btn text-center">
+                <a href="blog/index.php" class=" flex-btn text-center">
                   <button>
-                    News
+                    News & Blogs
                   </button>
                 </a>
               </div>
             </div>
             <div class="col-md-4 my-2">
               <div class="flex flex-tour">
-                <a href="about.php" class=" flex-btn text-center">
+                <a href="pages/documents.php" class=" flex-btn text-center">
                   <button>
                     Tournaments
                   </button>
@@ -125,7 +125,7 @@ include('components/navBar/navBar.php');
             </div>
             <div class="col-md-4 my-2">
               <div class="flex flex-clubs">
-                <a href="about.php" class=" flex-btn text-center">
+                <a href="#clubs" class=" flex-btn text-center">
                   <button>
                     Clubs
                   </button>
