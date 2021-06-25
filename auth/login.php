@@ -6,7 +6,7 @@
   // require('../components/head/compHead.php');
 
   
-  include('../components/navBar/compNavBar.php');
+  include('../components/navBar/authBar.php');
   
 
 ?>

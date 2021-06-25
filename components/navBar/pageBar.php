@@ -49,7 +49,7 @@
           <a class="nav-link" href="../pages/events.php">Events</a>
         </li>
         <li class="nav-item px-md-2">
-          <a class="nav-link" href="../pages/news.php">News</a>
+          <a class="nav-link" href="../blog/index.php">Blogs</a>
         </li>
         <li class="nav-item px-md-2">
           <a class="nav-link" href="../pages/documents.php">Documents</a>

@@ -1,6 +1,6 @@
 <!-- include head  -->
 <?php
-include('../components/navBar/pageNavBar.php');
+include('../components/navBar/pageBar.php');
 ?>
 
 

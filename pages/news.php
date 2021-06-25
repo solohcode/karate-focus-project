@@ -2,7 +2,7 @@
 <?php
 
   // navbar 
-  include('../components/navBar/pageNavBar.php');
+  include('../components/navBar/pageBar.php');
 ?>
 
 <div class="mt-3 fs-2 fst-italic text-center text-underline">

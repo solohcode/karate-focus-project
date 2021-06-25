@@ -1,7 +1,18 @@
 <?php
-  include('../components/head/compHead.php')
+  include('../components/head/blogHead.php')
 ?>
 
+    <div class="w-100 d-none d-md-block mt-3">
+        <div class="text-start ml-0 ml-md-3">
+            <img src="../images/top2.png" alt="top" style="width: 100px;height:auto;">
+        </div>
+        <div class="text-end fs-5" style="margin-top: -35px;">
+            <span class="mx-2">BEST SELF DEFENCE ASSET TO ACQUIRE*</span><i class="fs-3 mx-2 flaticon flaticon-martial-arts text-danger"></i>
+        </div>
+    </div>
+
+
+    
      
       <nav class='navbar navbar-expand-lg navbar-light bg-light sticky-top shadow-sm' style='min-height:80px;'>
           <div class='container-fluid'>
@@ -37,16 +48,20 @@
                   <a class='nav-link' href='../pages/events.php'>Events</a>
                 </li>
                 <li class='nav-item px-md-2'>
-                  <a class='nav-link' href='../pages/news.php'>News</a>
+                  <a class='nav-link' href='../blog/index.php'>Blogs</a>
                 </li>
                 <li class='nav-item px-md-2'>
                   <a class='nav-link' href='../pages/documents.php'>Documents</a>
                 </li> 
               </ul>
-              <div class='d-flex'>
-               
-               <a href="../auth/login.php" class="btn btn-outline-dark ml-3"><i class="flaticon flaticon-avatar "></i> Logout</a>
-        
+              <div class="d-flex">
+       
+                <a href="#social" class=" mx-3 top-link mt-2"><i class=" flaticon flaticon-facebook-1 "></i></a>
+                <a href="#social" class=" mx-3 top-link mt-2"><i class=" flaticon flaticon-instagram-3 "></i></a>
+                <a href="#social" class=" mx-3 top-link mt-2"><i class=" flaticon flaticon-twitter-2 "></i></a>
+                <a href="../auth/login.php" class="btn btn-outline-dark ml-3"><i class="flaticon flaticon-avatar "></i> Login</a>
+                
+
               </div>
               
             </div>

@@ -21,12 +21,12 @@ include('components/navBar/navBar.php');
         <br/>
         <div class="home-text">
           <div class="text-start float-left">
-              <div class="animate-opacity text-center mt-5 text-light p-md-5 p-2">
+              <div class="animate-opacity text-start mt-5 text-light p-md-5 p-2">
                 <h1 class=" w-md-50">The world of martial art skill acquisition<br/> and enhancement learning.</h1>
                 <p class=" fs-3 fst-italic">Learn and refine your skill on karate <br/>and other martial art skills.</p>
                 <p class=" fs-5 fst-italic">fun, fitness for a purpose. children, adult and family classes available.</p>
 
-                <div class="mt-5 w-100 animate-bottom">
+                <div class="mt-5 w-100 animate-bottom d-none d-md-block">
                   <a href="" class="mx-1 mx-md-3 btn btn-lg btn-outline-light ">Join the train</a>
                   <a href="" class="mx-1 mx-md-3 btn btn-lg btn-outline-danger">Contact</a>
                 </div>
@@ -74,7 +74,7 @@ include('components/navBar/navBar.php');
 
       <!-- banner  -->
       <div class="w-100 bg-white shadow position-relative" style="min-height:100px">
-        <div class="float-left text-dark fs-5 fw-bold mx-3 ml-md-5 mt-md-4">
+        <div class="float-left text-dark fs-5 fw-bold mx-2 mx-md-3 ml-md-5 mt-0 mt-md-4">
           <p>Lagos state based best karate organisation.<br/> Established in the year 2017.</p>
         </div>
         <div class="float-right mr-md-5 d-none d-md-block">
@@ -89,7 +89,7 @@ include('components/navBar/navBar.php');
           <div class="row">
             <div class="col-md-4 my-2">
               <div class="flex flex-join">
-                <a href="about.php" class=" flex-btn text-center">
+                <a href="auth/login.php" class=" flex-btn text-center">
                   <button>
                     Join karate focus
                   </button>

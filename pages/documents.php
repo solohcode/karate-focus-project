@@ -2,7 +2,7 @@
 
 <?php
 // navbar 
-  include('../components/navBar/pageNavBar.php')
+  include('../components/navBar/pageBar.php')
 ?>
 
 
