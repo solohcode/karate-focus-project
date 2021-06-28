@@ -1,13 +1,6 @@
-
-
-
 <?php
-// head include
-  // require('../components/head/compHead.php');
 
-  
   include('../components/navBar/authBar.php');
-  
 
 ?>
 
@@ -17,7 +10,7 @@
   <div class="container">
 
   <!-- desktop view  -->
-      <form class="shadow rounded w-50 mx-auto d-none d-md-block my-5 row needs-validation" novalidate style="min-height: 50vh;">
+      <form method="POST" action="../app/helpers/process.php" class="shadow rounded w-50 mx-auto d-none d-md-block my-5 row needs-validation" novalidate style="min-height: 50vh;">
       <br/>
         <div class="my-5 text-center">
           <p class="fs-2 ">Login</p>
@@ -28,7 +21,7 @@
           <div class="">
             <div class="input-group flex-nowrap">
               <span class="input-group-text" id="addon-wrapping"><i class="fa fa-envelope"></i></span>
-              <input type="email" class="form-control" placeholder="email" aria-label="email" aria-describedby="addon-wrapping">
+              <input type="email" name="email" value="<?php echo $email; ?>" class="form-control" placeholder="email" aria-label="email" aria-describedby="addon-wrapping">
             </div>
           </div>
         </div>
@@ -37,7 +30,7 @@
           <div class="">
             <div class="input-group flex-nowrap">
               <span class="input-group-text" id="addon-wrapping"><i class="fa fa-key"></i></span>
-              <input type="password" class="form-control" placeholder="password" aria-label="password" aria-describedby="addon-wrapping">
+              <input type="password" name="password" value="" class="form-control" placeholder="password" aria-label="password" aria-describedby="addon-wrapping">
             </div>
           </div>
         </div>
@@ -51,7 +44,7 @@
 
 
   <!-- mobile view  -->
-    <form class="shadow rounded w-100 mx-auto d-block d-md-none my-5 row needs-validation" novalidate style="min-height: 50vh;">
+    <!-- <form  class="shadow rounded w-100 mx-auto d-block d-md-none my-5 row needs-validation" novalidate style="min-height: 50vh;">
         <br/>
           <div class="my-5 text-center">
             <p class="fs-2 ">Login</p>
@@ -81,7 +74,7 @@
             <p class="my-4">forgotten your password? <a href="#">recover now</a></p>
           </div>
           <br/>
-        </form>
+        </form> -->
 
   </div>
 </div>
