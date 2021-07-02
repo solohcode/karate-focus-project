@@ -8,9 +8,9 @@
 
     <link rel="shortcut icon" href="images/ico.png" type="image/x-icon">
     <link rel="stylesheet" href="style/motion.css" type="text/css">
+    <link rel="stylesheet" href="resources/icons/font/flaticon.css">
     <link rel="stylesheet" href="style/index.css" type="text/css">
     <link rel="stylesheet" href="style/bootstrap.css" type="text/css">
-    <link rel="stylesheet" href="resources/icons/font/flaticon.css">
 
     <title>Karate Focus</title>
 

@@ -77,7 +77,9 @@
         </div>
        
         <div class="col-12 my-4">
-          <button class="btn btn-primary" type="submit">Register</button>
+          <div class="w-75 mx-auto">
+            <button class="w-100 btn btn-primary" type="submit">Register</button>
+          </div>
         </div>
         <br/>
       </form>
@@ -146,8 +148,10 @@
           </div>
         
           <div class="col-12 my-4">
-            <button class="btn btn-primary" type="submit">Register</button>
+          <div class="w-75 mx-auto">
+            <button class="w-100 btn btn-primary" type="submit">Register</button>
           </div>
+        </div>
           <br/>
         </form>
 
