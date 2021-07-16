@@ -40,7 +40,62 @@
 
     <!-- Main content -->
     <section class="content">
-      
+      <div class="container-fluid table-responsive">
+      <div class="my-4 fs-5 fw-bold">
+        <p>Blog Activities</p>
+      </div>
+      <table class="table table-bordered table-striped table-hover">
+        <thead class="table-primary">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Img</th>
+            <th scope="col">Title</th>
+            <th scope="col">Content</th>
+            <th scope="col">Category</th>
+            <th scope="col">Tags</th>
+            <th scope="col">Actions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">1</th>
+            <td><img src="" alt="..." /></td>
+            <td>Narcissism</td>
+            <td>The content of this topic is very wide but we shorten it already so read more...</td>
+            <td>Human Activity</td>
+            <td>'mental','meditate','mind'</td>
+            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td><img src="" alt="..." /></td>
+            <td>Narcissism</td>
+            <td>The content of this topic is very wide but we shorten it already so read more...</td>
+            <td>Human Activity</td>
+            <td>'mental','meditate','mind'</td>
+            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td><img src="" alt="..." /></td>
+            <td>Narcissism</td>
+            <td>The content of this topic is very wide but we shorten it already so read more...</td>
+            <td>Human Activity</td>
+            <td>'mental','meditate','mind'</td>
+            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
+          </tr>
+          <tr>
+            <th scope="row">4</th>
+            <td><img src="" alt="..." /></td>
+            <td>Narcissism</td>
+            <td>The content of this topic is very wide but we shorten it already so read more...</td>
+            <td>Human Activity</td>
+            <td>'mental','meditate','mind'</td>
+            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
+          </tr>
+        </tbody>
+        </table>
+      </div>
     </section>
     <!-- /.content -->
 
