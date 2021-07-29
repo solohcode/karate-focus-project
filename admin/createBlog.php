@@ -40,7 +40,7 @@
 
     <!-- Main content -->
     <section class="content">
-      <div class="card card-outline card-info">
+      <div class="card card-outline card-primary">
             <div class="card-header">
               <h3 class="card-title">
                 Make a blog
@@ -48,39 +48,50 @@
             </div>
             <!-- /.card-header -->
             <div class="card-body">
-              <form>
-                <div class="mb-3">
-                  <label for="formFile" class="form-label">Upload Blog Image</label>
-                  <input class="form-control" type="file" id="formFile">
-                </div>
-                <div class="mb-3">
-                  <label for="exampleFormControlInput1" class="form-label">Blog Title</label>
-                  <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Input Blog Title here">
-                </div>
-                <div class="mb-3">
-                  <label for="exampleFormControlInput2" class="form-label">Blog Content</label>
-                  <textarea id="editor" name="editor" placeholder="Blog Content Goes here">
-                    Place <em>some</em> <u>text</u> <strong>here</strong>
-                  </textarea>
-                  <p>OR</p>
-                  <textarea class="form-control" placeholder="contents" id="exampleFormControlTextarea2" rows="3"></textarea>
-                </div>
-                <div class="mb-3">
-                  <label class="form-label">Category</label>
-                  <select class="form-select" aria-label="Default select example">
-                    <option selected>select category</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                  </select>
-                </div>
-                <div class="mb-3">
-                  
+              <form class="container">
+                <div class="row">
+                  <div class="col-md-6">
+                      <div class="mb-3">
+                        <label for="formFile" class="form-label">Upload Blog Image</label>
+                        <input class="form-control" type="file" id="formFile">
+                      </div>
+                      <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Blog Title</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Input Blog Title here">
+                      </div>
+                      <div class="mb-3">
+                        <label class="form-label">Category</label>
+                        <select class="form-select" aria-label="Default select example">
+                          <option selected>select category</option>
+                          <option value="1">One</option>
+                          <option value="2">Two</option>
+                          <option value="3">Three</option>
+                        </select>
+                      </div>
+                      <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Tags</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Blog Tags">
+                      </div>
+                      <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Author</label>
+                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Authors Name">
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="mb-3">
+                        <label for="exampleFormControlInput2" class="form-label">Blog Content</label>
+                        <textarea id="editor" name="editor" placeholder="Blog Content Goes here">
+                          Place <em>some</em> <u>text</u> <strong>here</strong>
+                        </textarea>
+                        <p>OR</p>
+                        <textarea class="form-control" placeholder="contents" id="exampleFormControlTextarea2" rows="3"></textarea>
+                      </div>
+                  </div>
                 </div>
               </form>
             </div>
             <div class="card-footer">
-              <a class="btn btn-outline-primary float-right">Submit Blog</a>
+              <a class="btn btn-outline-primary float-right">Create Blog</a>
             </div>
           </div>
     </section>

@@ -40,63 +40,71 @@
 
     <!-- Main content -->
     <section class="content my-5 border">
-      <div class="container-fluid table-responsive">
-        <div class="my-3 col-6 float-right d-flex">
+
+    <div class="card card-outline card-primary">
+      <div class="card-header">
+        <div class="w-50 float-right d-flex">
           <input class="form-control w-50" placeholder="search an admin" />
           <button class="btn btn-primary mx-2">Search</button>
         </div>
-      <table class="table table-bordered table-striped table-hover">
-        <thead class="table-primary">
-          <tr>
-            <th scope="col">#</th>
-            <th scope="col">Img</th>
-            <th scope="col">First Name</th>
-            <th scope="col">Last Name</th>
-            <th scope="col">Club</th>
-            <th scope="col">Appointed At</th>
-            <th scope="col">Action</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">1</th>
-            <td><img src="" alt="..." /></td>
-            <td>Dev</td>
-            <td>Olawale</td>
-            <td>Tiger</td>
-            <td>24-08-2020</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">disable</a></td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td><img src="" alt="..." /></td>
-            <td>Dev</td>
-            <td>Olawale</td>
-            <td>Tiger</td>
-            <td>24-08-2020</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">disable</a></td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td><img src="" alt="..." /></td>
-            <td>Dev</td>
-            <td>Olawale</td>
-            <td>Tiger</td>
-            <td>24-08-2020</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">disable</a></td>
-          </tr>
-          <tr>
-            <th scope="row">4</th>
-            <td><img src="" alt="..." /></td>
-            <td>Dev</td>
-            <td>Olawale</td>
-            <td>Tiger</td>
-            <td>24-08-2020</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">disable</a></td>
-          </tr>
-        </tbody>
-        </table>
       </div>
+      <div class="card-body">
+        <div class="container-fluid table-responsive">
+        <table class="table table-hover">
+          <thead class="bg-primary">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col" style="width: 10%">Img</th>
+              <th scope="col">First Name</th>
+              <th scope="col">Last Name</th>
+              <th scope="col">Club</th>
+              <th scope="col">Appointed At</th>
+              <th scope="col">Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td><img src="../images/user.jpg" alt="..." height="60px" /></td>
+              <td>Dev</td>
+              <td>Olawale</td>
+              <td>Tiger</td>
+              <td>24-08-2020</td>
+              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td><img src="../images/user.jpg" alt="..." height="60px" /></td>
+              <td>Dev</td>
+              <td>Olawale</td>
+              <td>Tiger</td>
+              <td>24-08-2020</td>
+              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td><img src="../images/user.jpg" alt="..." height="60px" /></td>
+              <td>Dev</td>
+              <td>Olawale</td>
+              <td>Tiger</td>
+              <td>24-08-2020</td>
+              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td><img src="../images/user.jpg" alt="..." height="60px" /></td>
+              <td>Dev</td>
+              <td>Olawale</td>
+              <td>Tiger</td>
+              <td>24-08-2020</td>
+              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+            </tr>
+          </tbody>
+          </table>
+        </div>
+
+      </div>
+    </div>
     </section>
     <!-- /.content -->
 

@@ -46,7 +46,7 @@
         <div class="row">
           <div class="col-lg-3 col-6">
             <!-- small box -->
-            <div class="small-box bg-info">
+            <div class="small-box bg-primary">
               <div class="inner">
                 <h3>150</h3>
 
@@ -113,60 +113,69 @@
     <hr/>
 
 
+
     <!-- another content -->
     <!-- few blogs on click of any should go to the blogs page  -->
     <section class="content">
-      <div class="container-fluid table-responsive">
-      <div class="my-4 fs-5 fw-bold">
-        <p>Blog Activities</p>
-      </div>
-      <table class="table table-bordered table-striped table-hover">
-        <thead class="table-primary">
-          <tr>
-            <th scope="col">#</th>
-            <th scope="col">Img</th>
-            <th scope="col">Title</th>
-            <th scope="col">Content</th>
-            <th scope="col">Category</th>
-            <th scope="col">Actions</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">1</th>
-            <td><img src="" alt="..." /></td>
-            <td>Narcissism</td>
-            <td>The content of this topic is very wide but we shorten it already so read more...</td>
-            <td>Human Activity</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td><img src="" alt="..." /></td>
-            <td>Narcissism</td>
-            <td>The content of this topic is very wide but we shorten it already so read more...</td>
-            <td>Human Activity</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td><img src="" alt="..." /></td>
-            <td>Narcissism</td>
-            <td>The content of this topic is very wide but we shorten it already so read more...</td>
-            <td>Human Activity</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
-          </tr>
-          <tr>
-            <th scope="row">4</th>
-            <td><img src="" alt="..." /></td>
-            <td>Narcissism</td>
-            <td>The content of this topic is very wide but we shorten it already so read more...</td>
-            <td>Human Activity</td>
-            <td><a class="btn btn-primary">view</a><a class="btn btn-danger">delete</a></td>
-          </tr>
-        </tbody>
-        </table>
-        <a href="./blogs.php" class=" btn btn-lg btn-primary ">View all</a>
+      <div class="card card-outline card-primary">
+        <div class="card-header">
+            <h3 class="card-title">
+              Blog Activities
+            </h3>
+        </div>
+        <div class="card-body">
+          <div class="container-fluid table-responsive">
+            <table class="table table-hover">
+              <thead class="bg-primary">
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col" style="width: 10%;">Img</th>
+                  <th scope="col">Title</th>
+                  <th scope="col" style="width: 40%;">Content</th>
+                  <th scope="col">Category</th>
+                  <th scope="col">Actions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">1</th>
+                  <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
+                  <td>Narcissism</td>
+                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td>Human Activity</td>
+                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">2</th>
+                  <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
+                  <td>Narcissism</td>
+                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td>Human Activity</td>
+                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">3</th>
+                  <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
+                  <td>Narcissism</td>
+                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td>Human Activity</td>
+                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                </tr>
+                <tr>
+                  <th scope="row">4</th>
+                  <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
+                  <td>Narcissism</td>
+                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td>Human Activity</td>
+                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                </tr>
+              </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="card-footer">
+            <a href="./blogs.php" class=" btn btn-lg btn-primary ">View all</a>
+          </div>
       </div>
     </section>
 
