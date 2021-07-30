@@ -1,7 +1,7 @@
 
 
 
-<footer class="home-footer w-100 bg-dark text-white">
+<footer class="home-footer w-100 bg-dark text-white" id="contact">
     <br/>
       <div class="container mt-5">
         <div class="row">

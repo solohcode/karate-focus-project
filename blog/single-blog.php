@@ -19,7 +19,7 @@
           <div class="col-md-12 col-lg-8 main-content">
             <img src="images/img_10.jpg" alt="Image" class="img-fluid mb-5">
              <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib" class="mr-2"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus" class="mr-2"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -203,7 +203,7 @@
               <div class="post-entry-sidebar">
                 <ul>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_1.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -214,7 +214,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_1.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -225,7 +225,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_1.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -285,7 +285,7 @@
         </div>
         <div class="row">
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="a-block sm d-flex align-items-center height-md" style="background-image: url('images/img_2.jpg'); ">
+            <a href="#" class="a-block text-decoration-none text-decoration-none sm d-flex align-items-center height-md" style="background-image: url('images/img_2.jpg'); ">
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Lifestyle</span>
@@ -297,7 +297,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="a-block sm d-flex align-items-center height-md" style="background-image: url('images/img_3.jpg'); ">
+            <a href="#" class="a-block text-decoration-none text-decoration-none sm d-flex align-items-center height-md" style="background-image: url('images/img_3.jpg'); ">
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Travel</span>
@@ -309,7 +309,7 @@
             </a>
           </div>
           <div class="col-md-6 col-lg-4">
-            <a href="#" class="a-block sm d-flex align-items-center height-md" style="background-image: url('images/img_4.jpg'); ">
+            <a href="#" class="a-block text-decoration-none text-decoration-none sm d-flex align-items-center height-md" style="background-image: url('images/img_4.jpg'); ">
               <div class="text">
                 <div class="post-meta">
                   <span class="category">Food</span>
@@ -345,7 +345,7 @@
                   <div class="post-entry-sidebar">
                     <ul>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_6.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -357,7 +357,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_3.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -369,7 +369,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -416,9 +416,9 @@
           <div class="row">
             <div class="col-md-12 text-center">
               <p class="small">
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made with <i class="fa fa-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | Karate Focus Blog Posts</p>
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
           </div>

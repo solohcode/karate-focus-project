@@ -28,11 +28,11 @@
                   <a class='nav-link' href='../index.php#about'>About</a>
                 </li>
                 <li class='nav-item px-md-2'>
-                  <a class='nav-link ' href='../index.php#instructors'>Instructors</a>
+                  <a class='nav-link ' href='../pages/instructors.php'>Instructors</a>
                 </li>
-                <li class='nav-item px-md-2'>
+                <!-- <li class='nav-item px-md-2'>
                   <a class='nav-link' href='../index.php#contact'>Contact</a>
-                </li>
+                </li> -->
                 <li class='nav-item px-md-2'>
                   <a class='nav-link' href='../pages/events.php'>Events</a>
                 </li>

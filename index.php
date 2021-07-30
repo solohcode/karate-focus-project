@@ -89,7 +89,7 @@ include('components/navBar/navBar.php');
           <div class="row">
             <div class="col-md-4 my-2">
               <div class="flex flex-join">
-                <a href="auth/login.php" class=" flex-btn text-center">
+                <a href="auth/register.php" class=" flex-btn text-center">
                   <button>
                     Join karate focus
                   </button>
@@ -151,7 +151,9 @@ include('components/navBar/navBar.php');
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
-                <p>updated april 29 2017</p>
+                
+                <p class="float-start fw-bold">updated april 29 2017</p>
+                <a class="float-end" href="pages/about.php">Read More..</a>
               </div>
             </div>
           </div>
@@ -159,10 +161,15 @@ include('components/navBar/navBar.php');
       </div>
 
 
-      <!-- instructors section  -->
-      <div class="" id="#instructors">
+      <!-- clubs section  -->
+      <div id="clubs"></div>
+      <div class="">
       <div>
         <div class="container">
+          <div class="fs-2">
+            <p>Karate Focus Clubs</p>
+            <hr/>
+          </div>
           <div class="row">
             <div class="col-md-3 my-3">
                 <img src="images/flex/about.jpg" alt="about" style="width:100%;" />

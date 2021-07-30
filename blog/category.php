@@ -28,11 +28,11 @@
               <div class="col-md-12">
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_10.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -44,11 +44,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_11.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -60,11 +60,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_12.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -76,11 +76,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_9.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -92,11 +92,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_8.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -108,11 +108,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_7.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -124,11 +124,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_6.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -140,11 +140,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_5.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
@@ -157,11 +157,11 @@
                 <!-- END post -->
 
                 <div class="post-entry-horzontal">
-                  <a href="single-blog.php">
+                  <a href="single-blog.php" class="text-decoration-none">
                     <div class="image element-animate" data-animate-effect="fadeIn" style="background-image: url(images/img_4.jpg);"></div>
                     <span class="text">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="mr-2">Food</span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
@@ -229,7 +229,7 @@
               <div class="post-entry-sidebar">
                 <ul>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_2.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -240,7 +240,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -251,7 +251,7 @@
                     </a>
                   </li>
                   <li>
-                    <a href="">
+                    <a href="" class="text-decoration-none">
                       <img src="images/img_12.jpg" alt="Image placeholder" class="mr-4">
                       <div class="text">
                         <h4>There’s a Cool New Way for Men to Wear Socks and Sandals</h4>
@@ -320,7 +320,7 @@
                   <div class="post-entry-sidebar">
                     <ul>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_6.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -332,7 +332,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_3.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -344,7 +344,7 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
+                        <a href="" class="text-decoration-none">
                           <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
@@ -391,9 +391,9 @@
           <div class="row">
             <div class="col-md-12 text-center">
               <p class="small">
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made with <i class="fa fa-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | Karate Focus Blog Posts</p>
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
           </div>

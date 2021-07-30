@@ -20,12 +20,12 @@
 
               <div class="owl-carousel owl-theme home-slider">
                 <div>
-                  <a href="single-blog.php" class="a-block d-flex align-items-center height-lg" style="background-image: url('images/img_1.jpg'); ">
+                  <a href="single-blog.php" class="a-block text-decoration-none d-flex align-items-center height-lg" style="background-image: url('images/img_1.jpg'); ">
                     <div class="text half-to-full">
                       <span class="category mb-5">Food</span>
                       <div class="post-meta">
                         
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                         
@@ -36,12 +36,12 @@
                   </a>
                 </div>
                 <div>
-                  <a href="single-blog.php" class="a-block d-flex align-items-center height-lg" style="background-image: url('images/img_2.jpg'); ">
+                  <a href="single-blog.php" class="a-block text-decoration-none d-flex align-items-center height-lg" style="background-image: url('images/img_2.jpg'); ">
                     <div class="text half-to-full">
                       <span class="category mb-5">Travel</span>
                       <div class="post-meta">
                         
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                         
@@ -52,12 +52,12 @@
                   </a>
                 </div>
                 <div>
-                  <a href="single-blog.php" class="a-block d-flex align-items-center height-lg" style="background-image: url('images/img_3.jpg'); ">
+                  <a href="single-blog.php" class="a-block text-decoration-none d-flex align-items-center height-lg" style="background-image: url('images/img_3.jpg'); ">
                     <div class="text half-to-full">
                       <span class="category mb-5">Sports</span>
                       <div class="post-meta">
                         
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                         
@@ -89,11 +89,11 @@
             <div class="col-md-12 col-lg-8 main-content">
               <div class="row">
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_5.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -102,11 +102,11 @@
                   </a>
                 </div>
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_6.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -116,11 +116,11 @@
                 </div>
 
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_7.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -129,11 +129,11 @@
                   </a>
                 </div>
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_8.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -143,11 +143,11 @@
                 </div>
 
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_9.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -156,11 +156,11 @@
                   </a>
                 </div>
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_10.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -170,11 +170,11 @@
                 </div>
 
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_11.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -183,11 +183,11 @@
                   </a>
                 </div>
                 <div class="col-md-6">
-                  <a href="single-blog.php" class="blog-entry element-animate" data-animate-effect="fadeIn">
+                  <a href="single-blog.php" class="blog-entry text-decoration-none element-animate" data-animate-effect="fadeIn">
                     <img src="images/img_12.jpg" alt="Image placeholder">
                     <div class="blog-content-body">
                       <div class="post-meta">
-                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Colorlib"> Colorlib</span>&bullet;
+                        <span class="author mr-2"><img src="images/person_1.jpg" alt="Karate Focus"> Karate Focus</span>&bullet;
                         <span class="mr-2">March 15, 2018 </span> &bullet;
                         <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
                       </div>
@@ -254,8 +254,8 @@
                 <div class="post-entry-sidebar">
                   <ul>
                     <li>
-                      <a href="">
-                        <img src="images/img_2.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="" class="text-decoration-none">
+                        <img src="images/img_2.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
@@ -265,8 +265,8 @@
                       </a>
                     </li>
                     <li>
-                      <a href="">
-                        <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="" class="text-decoration-none">
+                        <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
@@ -276,8 +276,8 @@
                       </a>
                     </li>
                     <li>
-                      <a href="">
-                        <img src="images/img_12.jpg" alt="Image placeholder" class="mr-4">
+                      <a href="" class="text-decoration-none">
+                        <img src="images/img_12.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                         <div class="text">
                           <h4>How to Find the Video Games of Your Youth</h4>
                           <div class="post-meta">
@@ -345,8 +345,8 @@
                   <div class="post-entry-sidebar">
                     <ul>
                       <li>
-                        <a href="">
-                          <img src="images/img_6.jpg" alt="Image placeholder" class="mr-4">
+                        <a href="" class="text-decoration-none">
+                          <img src="images/img_6.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
                             <div class="post-meta">
@@ -357,8 +357,8 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
-                          <img src="images/img_3.jpg" alt="Image placeholder" class="mr-4">
+                        <a href="" class="text-decoration-none">
+                          <img src="images/img_3.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
                             <div class="post-meta">
@@ -369,8 +369,8 @@
                         </a>
                       </li>
                       <li>
-                        <a href="">
-                          <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4">
+                        <a href="" class="text-decoration-none">
+                          <img src="images/img_4.jpg" alt="Image placeholder" class="mr-4 text-decoration-none">
                           <div class="text">
                             <h4>How to Find the Video Games of Your Youth</h4>
                             <div class="post-meta">
@@ -416,9 +416,9 @@
           <div class="row">
             <div class="col-md-12 text-center">
               <p class="small">
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | This template is made with <i class="fa fa-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy; <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All Rights Reserved | Karate Focus Blog Posts</p>
+            <!-- Link back to Karate Focus can't be removed. Template is licensed under CC BY 3.0. -->
             </p>
             </div>
           </div>
