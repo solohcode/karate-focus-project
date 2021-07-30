@@ -88,14 +88,14 @@
           </li>
          
           <li class="nav-header">DOCUMENTS</li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a href="calendar.php" class="nav-link">
               <i class="nav-icon far fa-calendar-alt"></i>
               <p>
                 Calendar
               </p>
             </a>
-          </li>
+          </li> -->
           <li class="nav-item">
             <a href="gallery.php" class="nav-link">
               <i class="nav-icon far fa-image"></i>
@@ -112,7 +112,15 @@
               </p>
             </a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
+            <a href="tournament.php" class="nav-link">
+              <i class="nav-icon fas fa-columns"></i>
+              <p>
+                Comments
+              </p>
+            </a>
+          </li> -->
+          <!-- <li class="nav-item">
             <a href="#" class="nav-link">
               <i class="nav-icon far fa-envelope"></i>
               <p>
@@ -132,7 +140,7 @@
                   <i class="far fa-circle nav-icon"></i>
                   <p>Reviews</p>
                 </a>
-              </li>
+              </li> -->
             </ul>
           </li>
         

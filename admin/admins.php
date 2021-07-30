@@ -43,7 +43,10 @@
 
     <div class="card card-outline card-primary">
       <div class="card-header">
-        <div class="w-50 float-right d-flex">
+        <div class="float-start">
+          <a class="btn btn-primary" href="addAdmin.php">Add New Admin</a>
+        </div>
+        <div class="w-50 float-end d-flex">
           <input class="form-control w-50" placeholder="search an admin" />
           <button class="btn btn-primary mx-2">Search</button>
         </div>
@@ -70,7 +73,7 @@
               <td>Olawale</td>
               <td>Tiger</td>
               <td>24-08-2020</td>
-              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+              <td><a class="btn btn-primary" href="./singleAdmin.php">view</a> <a class="btn btn-danger">disable</a></td>
             </tr>
             <tr>
               <th scope="row">2</th>
@@ -79,7 +82,7 @@
               <td>Olawale</td>
               <td>Tiger</td>
               <td>24-08-2020</td>
-              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+              <td><a class="btn btn-primary" href="./singleAdmin.php">view</a> <a class="btn btn-danger">disable</a></td>
             </tr>
             <tr>
               <th scope="row">3</th>
@@ -88,7 +91,7 @@
               <td>Olawale</td>
               <td>Tiger</td>
               <td>24-08-2020</td>
-              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+              <td><a class="btn btn-primary" href="./singleAdmin.php">view</a> <a class="btn btn-danger">disable</a></td>
             </tr>
             <tr>
               <th scope="row">4</th>
@@ -97,12 +100,29 @@
               <td>Olawale</td>
               <td>Tiger</td>
               <td>24-08-2020</td>
-              <td><a class="btn btn-primary">view</a> <a class="btn btn-danger">disable</a></td>
+              <td><a class="btn btn-primary" href="./singleAdmin.php">view</a> <a class="btn btn-danger">disable</a></td>
             </tr>
           </tbody>
           </table>
         </div>
 
+      </div>
+      <div class="card-footer">
+          <p class="float-start">Karate Focus Admins</p>
+            <nav aria-label="Page navigation example">
+              <ul class="pagination justify-content-end">
+                <li class="page-item disabled">
+                  <a class="page-link" href="#" tabindex="-1" aria-disabled="true">Previous</a>
+                </li>
+                <li class="page-item"><a class="page-link" href="#">1</a></li>
+                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                <li class="page-item">
+                  <a class="page-link" href="#">Next</a>
+                </li>
+              </ul>
+            </nav>
+        </div>
       </div>
     </div>
     </section>

@@ -88,6 +88,11 @@
                
               </div>
               <!-- /.card-body -->
+              <div class="card-footer">
+                <div class="float-end">
+                  <a class="btn btn-primary" href="addEvent.php">Add New Event</a>
+                </div>
+              </div>
             </div>
             <!-- /.card -->
           </div>

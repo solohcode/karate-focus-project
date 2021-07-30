@@ -151,7 +151,7 @@
                   <td>Narcissism</td>
                   <td>The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -159,7 +159,7 @@
                   <td>Narcissism</td>
                   <td>The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -167,7 +167,7 @@
                   <td>Narcissism</td>
                   <td>The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
                 </tr>
               </tbody>
               </table>
