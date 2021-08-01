@@ -52,21 +52,19 @@
             <br/>
             <div class="container my-md-5">
             <div class="row">
-                <div class="col-md-6 d-none d-md-block">
+                <div class="col-md-6">
                 <img src="../images/flex/about.jpg" alt="about" style="width:100%;" />
-                <div class="row my-3">
+                <!-- <div class="row my-3">
                     <div class="col-md-6">
                     <img src="../images/masters/master.jpg" alt="about" style="width:100%;" height="200px" />
                     </div>
                     <div class="col-md-6">
                     <img src="../images/masters/master2.jpg" alt="about" style="width:100%;" height="200px" />
                     </div>
-                </div>
+                </div> -->
                 </div>
                 <div class="col-md-6">
                 <p class="fs-3 fst-italic my-5 text-center">Anonymous Member: Anonymous Club</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
                 

@@ -46,7 +46,7 @@
           <hr/>
       </div>
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/about.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">
@@ -71,7 +71,7 @@
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
               <p>updated april 29 2017</p>
             </div>
-            <div class="col-md-6 d-none d-md-block">
+            <div class="col-md-6 ">
               <img src="../images/flex/news1.jpg" alt="about" style="width:100%;" />
             </div>
       </div>
@@ -82,7 +82,7 @@
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/news2.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">
@@ -107,7 +107,7 @@
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi ea distinctio impedit dolor pariatur, quaerat illo laudantium nobis tempora sit reiciendis deleniti laboriosam aliquid ab atque iusto harum cumque esse?</p>
               <p>updated april 29 2017</p>
             </div>
-            <div class="col-md-6 d-none d-md-block">
+            <div class="col-md-6 ">
               <img src="../images/flex/news3.jpg" alt="about" style="width:100%;" />
             </div>
       </div>
@@ -118,7 +118,7 @@
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/news4.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">

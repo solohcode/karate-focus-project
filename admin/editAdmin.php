@@ -84,7 +84,7 @@
               </form>
             </div>
             <div class="card-footer">
-              <a class="btn btn-outline-primary float-right">Add Admin</a>
+              <a class="btn btn-outline-primary float-right">Edit Admin</a>
             </div>
           </div>
     </section>

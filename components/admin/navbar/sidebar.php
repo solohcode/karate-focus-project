@@ -1,4 +1,4 @@
-<aside class="main-sidebar sidebar-dark-primary elevation-4">
+<aside class="main-sidebar sidebar-dark-primary elevation-4 position-fixed">
     <!-- Brand Logo -->
     <a href="../admin" class="brand-link text-decoration-none">
         <i class="flaticon flaticon-judo brand-image img-circle elevation-3" style="opacity: 0.8;font-size:30px"></i>

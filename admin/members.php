@@ -43,8 +43,12 @@
       <div class="card card-outline card-primary">
         <div class="card-header">
           <!-- <h3 class="card-title">Karate Focus Members</h3> -->
-          <div class="card-title w-50 float-right d-flex">
+          <div class="card-title w-50 float-right d-none d-md-flex">
             <input class="form-control w-50" placeholder="search a member" />
+            <button class="btn btn-primary mx-2">Search</button>
+          </div>
+          <div class="card-title w-100 float-right d-flex d-md-none">
+            <input class="form-control w-75" placeholder="search a member" />
             <button class="btn btn-primary mx-2">Search</button>
           </div>
         </div>
@@ -58,7 +62,7 @@
                 <th scope="col">First Name</th>
                 <th scope="col">Last Name</th>
                 <th scope="col">Club</th>
-                <th scope="col">Join Date</th>
+                <th scope="col" class="d-none">Join Date</th>
                 <th scope="col">Action</th>
               </tr>
             </thead>
@@ -69,8 +73,8 @@
                 <td>Dev</td>
                 <td>Olawale</td>
                 <td>Tiger</td>
-                <td>24-08-2020</td>
-                <td><a class="btn btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                <td class="d-none">24-08-2020</td>
+                <td><a class="btn btn-sm btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
               </tr>
               <tr>
                 <th scope="row">2</th>
@@ -78,8 +82,8 @@
                 <td>Dev</td>
                 <td>Olawale</td>
                 <td>Tiger</td>
-                <td>24-08-2020</td>
-                <td><a class="btn btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                <td class="d-none">24-08-2020</td>
+                <td><a class="btn btn-sm btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
               </tr>
               <tr>
                 <th scope="row">3</th>
@@ -87,8 +91,8 @@
                 <td>Dev</td>
                 <td>Olawale</td>
                 <td>Tiger</td>
-                <td>24-08-2020</td>
-                <td><a class="btn btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                <td class="d-none">24-08-2020</td>
+                <td><a class="btn btn-sm btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
               </tr>
               <tr>
                 <th scope="row">4</th>
@@ -96,8 +100,8 @@
                 <td>Dev</td>
                 <td>Olawale</td>
                 <td>Tiger</td>
-                <td>24-08-2020</td>
-                <td><a class="btn btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                <td class="d-none">24-08-2020</td>
+                <td><a class="btn btn-sm btn-primary" href="./singleMember.php">view</a>  <a class="btn btn-danger">delete</a></td>
               </tr>
             </tbody>
             </table>
@@ -105,7 +109,7 @@
 
         </div>
         <div class="card-footer">
-          <p class="float-start">Karate Focus Members</p>
+          <p class="float-start d-none d-md-block">Karate Focus Members</p>
             <nav aria-label="Page navigation example">
               <ul class="pagination justify-content-end">
                 <li class="page-item disabled">

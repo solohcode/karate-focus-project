@@ -48,11 +48,11 @@
 
             
         <div class="w-100 bg-light ">
-        <div class="">
+        <div class=" my-5">
             <br/>
             <div class="container my-md-5">
             <div class="row">
-                <div class="col-md-6 d-none d-md-block">
+                <div class="col-md-6">
                 <img src="../images/flex/about.jpg" alt="about" style="width:100%;" />
                 <div class="row my-3">
                     <div class="col-md-6">
@@ -77,14 +77,14 @@
                 <div class="col-md-12 my-4">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci possimus omnis provident. Laudantium, fugiat illo minus, incidunt, cum veniam beatae quo ex autem iure est quidem aliquid! Error minima reprehenderit quae eos, nihil fugiat aperiam repellat molestiae et officiis! Dolores placeat, eligendi minus iusto voluptas magni, itaque fugit hic voluptatibus tempore, ab rem voluptatem reprehenderit necessitatibus neque excepturi aut adipisci! Fugiat in dolor saepe ipsa iure eius sit, sed numquam quos error at quaerat omnis rem ad expedita iusto non dolorum illum quo nesciunt suscipit. Est, tempora perferendis expedita blanditiis et fuga repellat culpa autem qui nemo earum officiis.</p>
                 
-                 <div class="my-5">
-                    <a class="float-start fw-bold btn btn-primary" href="./editAdmin.php">Edit Admin Data</a>
-                    <a class="float-end fw-bold btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete Admin</a>
                   </div>
                 </div>
+              </div>
+              <div class="my-5">
+                 <a class="float-start fw-bold btn btn-primary" href="./editAdmin.php">Edit Admin Data</a>
+                 <a class="float-end fw-bold btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal">Delete Admin</a>
+               </div>
             </div>
-            </div>
-        </div>
 
 
         <!-- modals >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  -->

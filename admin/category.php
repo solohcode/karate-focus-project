@@ -43,16 +43,20 @@
       
       <div class="card card-outline card-primary">
         <div class="card-header">
-          <div class="w-50 float-left">
+          <div class="w-50 float-start my-2 my-md-0">
             <!-- Button trigger modal -->
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
               Add Category
             </button>
     
           </div>
-          <div class="w-50 float-right d-flex">
+          <div class="w-50 float-end d-none d-md-flex">
             <input class="form-control w-50" placeholder="search a member" />
             <button class="btn btn-primary mx-2">Search Categories</button>
+          </div>
+          <div class="w-100 float-end d-flex d-md-none">
+            <input class="form-control w-" placeholder="search a member" />
+            <button class="btn btn-primary mx-2">Search</button>
           </div>
 
         </div>

@@ -16,9 +16,9 @@ include('../components/navBar/pageBar.php');
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6">
           <img src="../images/flex/about.jpg" alt="about" style="width:100%;" />
-          <div class="row my-5">
+          <div class="row my-5 d-none d-md-flex">
             <div class="col-md-3">
               <img src="../images/flex/news1.jpg" alt="about" style="width:100%;" />
             </div>
@@ -45,8 +45,8 @@ include('../components/navBar/pageBar.php');
         <div class="col-md-12 my-4">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis adipisci possimus omnis provident. Laudantium, fugiat illo minus, incidunt, cum veniam beatae quo ex autem iure est quidem aliquid! Error minima reprehenderit quae eos, nihil fugiat aperiam repellat molestiae et officiis! Dolores placeat, eligendi minus iusto voluptas magni, itaque fugit hic voluptatibus tempore, ab rem voluptatem reprehenderit necessitatibus neque excepturi aut adipisci! Fugiat in dolor saepe ipsa iure eius sit, sed numquam quos error at quaerat omnis rem ad expedita iusto non dolorum illum quo nesciunt suscipit. Est, tempora perferendis expedita blanditiis et fuga repellat culpa autem qui nemo earum officiis.</p>
             
-            <a class="float-start btn btn-link fw-bold" href="./events.php"><-- go back</a>
             <p class="float-end fw-bold ">--updated april 29 2017</p>
+            <a class="float-start btn btn-link fw-bold" href="./events.php"> go back</a>
         </div>
       </div>
     </div>

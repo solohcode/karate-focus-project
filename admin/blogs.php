@@ -54,7 +54,7 @@
                   <th scope="col">#</th>
                   <th scope="col" style="width: 10%;">Img</th>
                   <th scope="col">Title</th>
-                  <th scope="col" style="width: 40%;">Content</th>
+                  <th scope="col" class="d-none" style="width: 40%;">Content</th>
                   <th scope="col">Category</th>
                   <th scope="col">Actions</th>
                 </tr>
@@ -64,40 +64,40 @@
                   <th scope="row">1</th>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Narcissism</td>
-                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td class="d-none">The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Narcissism</td>
-                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td class="d-none">The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Narcissism</td>
-                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td class="d-none">The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Narcissism</td>
-                  <td>The content of this topic is very wide but we shorten it already so read more...</td>
+                  <td class="d-none">The content of this topic is very wide but we shorten it already so read more...</td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-primary" href="./singleBlog.php">view</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
               </tbody>
               </table>
             </div>
           </div>
           <div class="card-footer">
-            <p class="float-start">Karate Focus Blog Posts</p>
+            <p class="float-start d-none d-md-block">Karate Focus Blog Posts</p>
             <nav aria-label="Page navigation example">
               <ul class="pagination justify-content-end">
                 <li class="page-item disabled">
@@ -213,7 +213,7 @@
           </div>
         </div>
         <div class="card-footer">
-          <p class="float-start">Karate Focus Blog Posts</p>
+          <p class="float-start d-none d-md-block">Karate Focus Blog Posts</p>
           <nav aria-label="Page navigation example">
             <ul class="pagination justify-content-end">
               <li class="page-item disabled">
@@ -261,7 +261,7 @@
                   <td>anonymous@gmail.com</td>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">2</th>
@@ -269,7 +269,7 @@
                   <td>anonymous@gmail.com</td>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">3</th>
@@ -277,7 +277,7 @@
                   <td>anonymous@gmail.com</td>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
                 <tr>
                   <th scope="row">4</th>
@@ -285,14 +285,14 @@
                   <td>anonymous@gmail.com</td>
                   <td><img src="../images/nas.jpg" alt="..." width="80px" height="60px" /></td>
                   <td>Human Activity</td>
-                  <td><a class="btn btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-danger">delete</a></td>
+                  <td><a class="btn btn-sm btn-success" href="./singleBlog.php">Approve</a>  <a class="btn btn-sm btn-danger">delete</a></td>
                 </tr>
               </tbody>
               </table>
             </div>
           </div>
           <div class="card-footer">
-            <p class="float-start">Karate Focus Blog Comments</p>
+            <p class="float-start d-none d-md-block">Karate Focus Blog Comments</p>
             <nav aria-label="Page navigation example">
               <ul class="pagination justify-content-end">
                 <li class="page-item disabled">

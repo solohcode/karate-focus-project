@@ -51,7 +51,7 @@
               <!-- /.card-header -->
               <div class="card-body">
                 <div class="row">
-                  <div class="col-sm-4">
+                  <div class="col-sm-4 my-2">
                     <div class="position-relative p-3 bg-gray" style="height: 180px">
                       <div class="ribbon-wrapper ribbon-lg">
                         <div class="ribbon bg-primary">
@@ -62,7 +62,7 @@
                       <small>tournament between clubs to give respect to master sheriff bond</small>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-sm-4 my-2">
                     <div class="position-relative p-3 bg-gray" style="height: 180px">
                       <div class="ribbon-wrapper ribbon-lg">
                         <div class="ribbon bg-info">
@@ -73,7 +73,7 @@
                       <small>this is the event documentary of master shifu </small>
                     </div>
                   </div>
-                  <div class="col-sm-4">
+                  <div class="col-sm-4 my-2">
                     <div class="position-relative p-3 bg-gray" style="height: 180px">
                       <div class="ribbon-wrapper ribbon-lg">
                         <div class="ribbon bg-secondary">

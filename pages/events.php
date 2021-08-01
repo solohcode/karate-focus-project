@@ -78,7 +78,7 @@ include('../components/navBar/pageBar.php');
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/about.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">
@@ -107,7 +107,7 @@ include('../components/navBar/pageBar.php');
               <p class="float-start">updated april 29 2017</p>
               <a class="btn btn-link float-end" href="./singleEvent.php">Read more...</a>
             </div>
-            <div class="col-md-6 d-none d-md-block">
+            <div class="col-md-6 ">
               <img src="../images/flex/news1.jpg" alt="about" style="width:100%;" />
             </div>
       </div>
@@ -118,7 +118,7 @@ include('../components/navBar/pageBar.php');
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/news2.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">
@@ -147,7 +147,7 @@ include('../components/navBar/pageBar.php');
               <p class="float-start">updated april 29 2017</p>
               <a class="btn btn-link float-end" href="./singleEvent.php">Read more...</a>
             </div>
-            <div class="col-md-6 d-none d-md-block">
+            <div class="col-md-6 ">
               <img src="../images/flex/news3.jpg" alt="about" style="width:100%;" />
             </div>
       </div>
@@ -158,7 +158,7 @@ include('../components/navBar/pageBar.php');
     <br/>
     <div class="container my-md-5">
       <div class="row">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 ">
           <img src="../images/flex/news4.jpg" alt="about" style="width:100%;" />
         </div>
         <div class="col-md-6">
